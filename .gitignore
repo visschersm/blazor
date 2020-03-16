@@ -1,1 +1,7 @@
-WebApplication1/bin/Debug/netstandard2.1/Microsoft.Extensions.Logging.Abstractions.dll
+[B|b]in
+[O|o]bj
+.vscode
+
+*.user
+
+wwwroot/lib
